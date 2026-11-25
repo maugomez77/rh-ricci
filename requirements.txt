@@ -1,0 +1,6 @@
+networkit
+pot
+GraphRicciCurvature
+python-louvain
+scipy
+numpy
